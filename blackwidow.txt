@@ -1,0 +1,11 @@
+name	work	place
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+blackwidow	traning	no
+2020-10-13 22:34:34.555932
+--------------------------------------------------
+blackwidow	missionred	maxico
+2020-10-13 22:35:05.023795
+--------------------------------------------------
+blackwidow	traning	shild
+2020-10-14 01:08:54.509389
+--------------------------------------------------

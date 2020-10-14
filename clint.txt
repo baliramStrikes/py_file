@@ -1,0 +1,8 @@
+name	work	place
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+clint	rest	home
+2020-10-14 01:07:16.237139
+--------------------------------------------------
+clint	mission red	newyork
+2020-10-14 01:10:06.891509
+--------------------------------------------------
